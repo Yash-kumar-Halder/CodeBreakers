@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.active {
+    color: var(--theme);
+    font-weight: 700;
+}
+
+.active h3{
+    color: var(--theme);
+    font-weight: 700;
+}
+
+.unActive {
+    color: #fff;
+}
+
+.navLogo {
+    color: var(--theme)
+}
+
+
+
+
+
+
